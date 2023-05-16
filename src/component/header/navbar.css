@@ -1,0 +1,32 @@
+.Header-bg {
+  background-color: #24126ae3;
+  color: #fff !important;
+}
+.navbar-toggler {
+  color: #fff !important;
+  border: #fff 1px solid !important;
+  /* background: #fff !important; */
+}
+.Navber-text {
+  color: #fff;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 18px;
+}
+.Navber-text:hover {
+  color: aqua;
+  border-bottom: 2px solid aqua;
+  /* border-top: 2px solid aqua; */
+  /* transition: all 1s; */
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: aqua !important;
+  border-bottom: 3px solid aqua;
+  transition: all 2s;
+}
+.navbar-toggler-icon,
+.navbar-toggler {
+  color: #fff !important;
+  /* background-image: url("../../assets/Icon/download-01.svg") !important; */
+}

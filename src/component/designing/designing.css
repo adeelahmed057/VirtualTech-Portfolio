@@ -1,0 +1,21 @@
+.design-BgPic {
+  background-image: url("../../assets/Background/Dubai.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+.btn-talk {
+  background-color: #5cfff3;
+  font-size: 18px;
+  font-weight: bolder;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #24126ae3;
+}
+.btn-talk:hover {
+  background-color: #24126ae3;
+  font-size: 18px;
+  font-weight: bolder;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #5cfff3;
+}

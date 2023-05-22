@@ -1,10 +1,7 @@
 .App {
   text-align: center;
 }
-.App-bg {
-  background-color: #24126ae3 !important;
-  /* color: #fff !important; */
-}
+
 .Text-heading {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 40px;

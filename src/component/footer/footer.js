@@ -5,9 +5,9 @@ import { MdEmail } from "react-icons/md";
 
 function Footer() {
   return (
-    <div className="container">
+    <div className="container mt-5">
       <div className="row justify-content-center m-auto  mt-5">
-        <div className="col-lg-4 col-md-6 col-sm-12 border border-priamry">
+        <div className="col-lg-4 col-md-12 col-sm-12 border border-priamry">
           <div className="">
             <h1 className="footer-title">Contact</h1>
           </div>
@@ -28,7 +28,7 @@ function Footer() {
             <p className="footer-detail">+92 316 409 9042</p>
           </div>
         </div>
-        <div className="col-lg-4 col-md-6 col-sm-12 border border-priamry">
+        <div className="col-lg-4 col-md-12 col-sm-12 border border-priamry">
           <div className="">
             <h1 className="footer-title">Other Links:</h1>
           </div>
@@ -47,7 +47,7 @@ function Footer() {
             </ul>
           </div>
         </div>
-        <div className="col-lg-4 col-md-6 col-sm-12 border border-priamry">
+        <div className="col-lg-4 col-md-12 col-sm-12 border border-priamry">
           <div className="">
             <h1 className="footer-title">Address</h1>
           </div>
@@ -58,7 +58,7 @@ function Footer() {
               </span>
               Phone:
             </h2>
-            <p className="footer-detail">+92 316 409 9042</p>
+            <p className="footer-detail">+97-150-994-9375</p>
             <h2 className="footer-heading">
               <span className="" style={{ fontSize: "18px" }}>
                 <MdEmail /> &nbsp;

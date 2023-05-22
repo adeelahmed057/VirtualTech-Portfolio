@@ -1,22 +1,22 @@
 import React from "react";
-import NavbaaComp from "../component/header/navbar";
-import HeroSection from "../component/heroSection/heroSection";
-import Createmarket from "../component/creativeMarket/index";
-import SliderComp from "../component/slider/slider";
-import VirtualValley from "../component/virtualValley/virtualValley";
-import EveryBusiness from "../component/everyBusiness/everybusiness";
-import Designing from "../component/designing/designing";
-import EngagementModels from "../component/engagementModels/engagementModels";
-import TopLevel from "../component/topLevel/topLevel";
-import AndroidApp from "../component/androidApp/androidApp";
-import EveryIndustry from "../component/everyIndustry/everyIndustry";
-import FrequentlyAccordion from "../component/frequentlyAccordion/frequentlyAccordion";
-import Footer from "../component/footer/footer";
+
+import HeroSection from "../component/HomePage/heroSection/heroSection";
+import Createmarket from "../component/HomePage/creativeMarket/index";
+import SliderComp from "../component/HomePage/slider/slider";
+import VirtualValley from "../component/HomePage/virtualValley/virtualValley";
+import EveryBusiness from "../component/HomePage/everyBusiness/everybusiness";
+import Designing from "../component/HomePage/designing/designing";
+import EngagementModels from "../component/HomePage/engagementModels/engagementModels";
+import TopLevel from "../component/HomePage/topLevel/topLevel";
+import AndroidApp from "../component/HomePage/androidApp/androidApp";
+import EveryIndustry from "../component/HomePage/everyIndustry/everyIndustry";
+import AllCollapseExample from "../component/HomePage/frequentlyAccordion/frequentlyAccordion";
+import "./home.css";
 
 function Home() {
   return (
-    <div>
-      <NavbaaComp />
+    <div className="App-bg">
+   
       <HeroSection />
       <Createmarket />
       <SliderComp />
@@ -27,8 +27,8 @@ function Home() {
       <TopLevel />
       <AndroidApp />
       <EveryIndustry />
-      <FrequentlyAccordion />
-      <Footer />
+      <AllCollapseExample />
+      {/* <Footer /> */}
     </div>
   );
 }

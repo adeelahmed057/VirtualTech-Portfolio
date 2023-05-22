@@ -1,0 +1,10 @@
+.accordion-bg,
+.accordion-button {
+  background: transparent !important;
+  color: #fff !important;
+  
+}
+.accordion-button{
+    color: #5cfff3 !important;
+    border: #5cfff3 1px solid !important;
+}

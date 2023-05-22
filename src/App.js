@@ -4,7 +4,7 @@ import Home from "./page/home";
 
 function App() {
   return (
-    <div className="App-bg">
+    <div className="" style={{background:"#000"}}>
       <Home />
     </div>
   );

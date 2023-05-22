@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd2cccd8.css",
-    "main.js": "/static/js/main.e2ff6bc5.js",
+    "main.css": "/static/css/main.6d254185.css",
+    "main.js": "/static/js/main.3cb3ee36.js",
     "static/js/787.6416a89a.chunk.js": "/static/js/787.6416a89a.chunk.js",
     "static/media/burj-01.jpg": "/static/media/burj-01.30ecbf41ff1b4ce33b09.jpg",
     "static/media/Dubai.png": "/static/media/Dubai.d8c6120af323ed6c9c8e.png",
@@ -36,12 +36,12 @@
     "static/media/UnderLine-01.svg": "/static/media/UnderLine-01.9070f7d706324ce7ce0d6a60f650e8a9.svg",
     "index.html": "/index.html",
     "static/media/teampriceideahover-03.svg": "/static/media/teampriceideahover-03.cd25b9295e12365e608c.svg",
-    "main.dd2cccd8.css.map": "/static/css/main.dd2cccd8.css.map",
-    "main.e2ff6bc5.js.map": "/static/js/main.e2ff6bc5.js.map",
+    "main.6d254185.css.map": "/static/css/main.6d254185.css.map",
+    "main.3cb3ee36.js.map": "/static/js/main.3cb3ee36.js.map",
     "787.6416a89a.chunk.js.map": "/static/js/787.6416a89a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd2cccd8.css",
-    "static/js/main.e2ff6bc5.js"
+    "static/css/main.6d254185.css",
+    "static/js/main.3cb3ee36.js"
   ]
 }

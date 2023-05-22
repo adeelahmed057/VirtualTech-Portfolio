@@ -1,0 +1,16 @@
+.modal_bg{
+    background-image: url("../../assets/Background/artistic-blurry-colorful-wallpaper-background-01.jpg") !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-close {
+    box-sizing: content-box;
+    width: 1em;
+    height: 1em;
+    padding: 0.25em 0.25em;
+    color: #fff !important;
+    background: transparent url("../../assets/Icon/close-02.svg") !important;
+    border-radius: 0.375rem;
+    opacity: .5;
+}

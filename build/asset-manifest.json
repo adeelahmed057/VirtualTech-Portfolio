@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d254185.css",
-    "main.js": "/static/js/main.3cb3ee36.js",
+    "main.css": "/static/css/main.b561ac73.css",
+    "main.js": "/static/js/main.b652f81f.js",
     "static/js/787.6416a89a.chunk.js": "/static/js/787.6416a89a.chunk.js",
+    "static/media/ecommere-03.jpg": "/static/media/ecommere-03.3342664b68d8ae99d5fc.jpg",
+    "static/media/ecommere-05.jpg": "/static/media/ecommere-05.70dcdef2fb6adc2adae2.jpg",
+    "static/media/ecommere-01.jpg": "/static/media/ecommere-01.67be29ad82e560bd5f97.jpg",
+    "static/media/ecommere-06.jpg": "/static/media/ecommere-06.6107bc424de61de70e22.jpg",
+    "static/media/ecommere-04.jpg": "/static/media/ecommere-04.195b765ed7b10634d398.jpg",
+    "static/media/ecommere-02.jpg": "/static/media/ecommere-02.40b434e902d715959116.jpg",
     "static/media/burj-01.jpg": "/static/media/burj-01.30ecbf41ff1b4ce33b09.jpg",
+    "static/media/artistic-blurry-colorful-wallpaper-background-01.jpg": "/static/media/artistic-blurry-colorful-wallpaper-background-01.b3f0f296f6701f34a7e9.jpg",
+    "static/media/contactus-01.jpg": "/static/media/contactus-01.98a4ed7a9608960dc9f1.jpg",
     "static/media/Dubai.png": "/static/media/Dubai.d8c6120af323ed6c9c8e.png",
+    "static/media/comingsoon.png": "/static/media/comingsoon.5c43af52bf16b3ab4367.png",
     "static/media/PictureOne-01.svg": "/static/media/PictureOne-01.d0c86d6bfd9813522aaefa12fdf5e0ab.svg",
     "static/media/capture.png": "/static/media/capture.4462aba7ffe43283ea62.png",
     "static/media/Picture3.png": "/static/media/Picture3.441758528f49da9a6269.png",
@@ -31,17 +40,22 @@
     "static/media/Metaverse.png": "/static/media/Metaverse.92fadceaf675a9a13135.png",
     "static/media/uae.png": "/static/media/uae.1d5bf16c47636ff11a20.png",
     "static/media/teampriceidea-03.svg": "/static/media/teampriceidea-03.c092b880c6704b950afab9a146c15fad.svg",
+    "static/media/virtualLogo-01.svg": "/static/media/virtualLogo-01.d310e8389374d17adaad6107d5d771f6.svg",
     "static/media/teampriceidea-02.svg": "/static/media/teampriceidea-02.e695edbd1d40f3a1aba78d0751dba34b.svg",
     "static/media/teampriceidea-01.svg": "/static/media/teampriceidea-01.ea1fd295db5ae58434fb5acc350849c4.svg",
     "static/media/UnderLine-01.svg": "/static/media/UnderLine-01.9070f7d706324ce7ce0d6a60f650e8a9.svg",
     "index.html": "/index.html",
+    "static/media/phoneEmailAdd-03.svg": "/static/media/phoneEmailAdd-03.35a78b2ab956ecd5164cc996321be28f.svg",
+    "static/media/phoneEmailAdd-01.svg": "/static/media/phoneEmailAdd-01.1414e5b547fa8cb9605b201d0d786faf.svg",
+    "static/media/phoneEmailAdd-04.svg": "/static/media/phoneEmailAdd-04.6f10ccffb507ba0eb2648d5dc8a8fc15.svg",
+    "static/media/close-02.svg": "/static/media/close-02.f03f28245f24bebca0b3.svg",
     "static/media/teampriceideahover-03.svg": "/static/media/teampriceideahover-03.cd25b9295e12365e608c.svg",
-    "main.6d254185.css.map": "/static/css/main.6d254185.css.map",
-    "main.3cb3ee36.js.map": "/static/js/main.3cb3ee36.js.map",
+    "main.b561ac73.css.map": "/static/css/main.b561ac73.css.map",
+    "main.b652f81f.js.map": "/static/js/main.b652f81f.js.map",
     "787.6416a89a.chunk.js.map": "/static/js/787.6416a89a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d254185.css",
-    "static/js/main.3cb3ee36.js"
+    "static/css/main.b561ac73.css",
+    "static/js/main.b652f81f.js"
   ]
 }

@@ -1,0 +1,18 @@
+.portfolio_head {
+    font-size: 45px;
+    position: relative;
+    line-height: 50px;
+    padding-bottom: 30px;
+}
+
+.portfolio_head::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    width: 166px;
+    height: 8px;
+    background: #9f6500;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+}

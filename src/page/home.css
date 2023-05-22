@@ -1,16 +1,10 @@
 .App-bg {
-  background-image: radial-gradient(
-      circle farthest-side at 20% -170%,
-      transparent,
-      #0a0a0a
-    ),
-    linear-gradient(#230085, transparent) !important;
-    
+  background-image: url("../assets/Background/artistic-blurry-colorful-wallpaper-background-01.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%; /* Set the height according to your needs */
+  width: 100%; /* Set the width according to your needs */
   /* background-color: #24126ae3 !important; */
   /* color: #fff !important; */
-}
-
-element.style {
-  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
-    rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
 }

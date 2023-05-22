@@ -2,39 +2,45 @@ import React from "react";
 import "./everyIndustry.css";
 import Line from "../../../assets/Image/UnderLine-01.svg";
 import Picture from "../../../assets/Image/capture.png";
+import Medical from "../../../assets/Image/ecommere-03.jpg";
+import Logistics from "../../../assets/Image/ecommere-02.jpg";
+import Finance from "../../../assets/Image/ecommere-01.jpg";
+import Ecommerce from "../../../assets/Image/ecommere-04.jpg";
+import Education from "../../../assets/Image/ecommere-05.jpg";
+import Gaming from "../../../assets/Image/ecommere-06.jpg";
 const data = [
   {
-    image: Picture,
+    image: Medical,
     title: "Healthcare",
     describtion:
       "Decentralize operations, boost data security, and manage patient and employee records effectively using our blockchain software development solutions. The use of blockchain technology opens up new job opportunities in various industries. Blockchain also broadens the area of labor by removing regional barriers.  ",
   },
   {
-    image: Picture,
+    image: Logistics,
     title: "Logistics",
     describtion:
       "Keep track of the entire journey of products and services via an immutable block of information. Experience easy traceability and complete transparency and lower the possibility of duplication with blockchain software development services for logistics.",
   },
   {
-    image: Picture,
+    image: Finance,
     title: "Finance",
     describtion:
       "With decentralized finance, you may avoid the inconvenience of intermediaries and make P2P transactions with a single click. Track transaction history and ensure anonymity when making purchases with tailored solutions from the UAE blockchain software developers.",
   },
   {
-    image: Picture,
+    image: Ecommerce,
     title: "Ecommerce",
     describtion:
       "In e-commerce, blockchain is a solution that will increase efficiency. Blockchain technology may assist in managing and monitoring supply chains, order fulfilment, inventory updates, saving shipping costs, and speeding up order confirmation and checkout.  ",
   },
   {
-    image: Picture,
+    image: Education,
     title: "Education",
     describtion:
       "Using blockchain, enable unrestricted access to study materials and other resources. With our digital solutions, you may have improved verification features, protect student and faculty information, and easily issue certifications for various courses.",
   },
   {
-    image: Picture,
+    image: Gaming,
     title: "Gaming",
     describtion:
       "We provide blockchain gaming solutions where users can play and earn as a top blockchain software development firm in Dubai. Integrate games with cryptocurrencies and other digital assets to improve the user experience and decentralise gaming.        ",

@@ -63,11 +63,12 @@ function EveryBusiness() {
               return (
                 <>
                   <div className="col-lg-5 col-md-12 border-card mt-4">
-                      <div className="text-center border">
+                      <div className="text-center mt-3">
                         <img
                           src={data.image}
                           className="img-fluid"
                           // width={"300px"}
+                          alt=""
                         />
                       </div>
                   

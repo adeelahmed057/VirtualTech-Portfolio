@@ -1,5 +1,5 @@
 .Header-bg {
-  /* background-color: #24126ae3; */
+  background-color: #24126ae3;
   color: #fff !important;
 }
 .navbar-toggler {
@@ -11,6 +11,7 @@
   color: #fff;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 18px;
+  text-decoration: none !important;
 }
 .Navber-text:hover {
   color: aqua;
@@ -29,4 +30,10 @@
 .navbar-toggler {
   color: #fff !important;
   /* background-image: url("../../assets/Icon/download-01.svg") !important; */
+}
+
+@media (max-width: 800px) {
+  .Navber-text {
+    color: #24126ae3
+  }
 }

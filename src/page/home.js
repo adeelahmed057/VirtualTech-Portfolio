@@ -16,7 +16,6 @@ import "./home.css";
 function Home() {
   return (
     <div className="App-bg">
-   
       <HeroSection />
       <Createmarket />
       <SliderComp />
@@ -28,7 +27,6 @@ function Home() {
       <AndroidApp />
       <EveryIndustry />
       <AllCollapseExample />
-      {/* <Footer /> */}
     </div>
   );
 }

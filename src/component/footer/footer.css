@@ -1,0 +1,30 @@
+.footer-title {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  text-align: left;
+  color: #5cfff3;
+}
+.footer-heading {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 19px;
+  font-weight: 800;
+  text-align: left;
+  color: #fff;
+}
+
+.footer-detail,
+.footer-list {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  text-align: left;
+  color: #fff;
+}
+.text-copyRight{
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    /* text-align: left; */
+    color: #ffffff85;
+}

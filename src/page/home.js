@@ -10,6 +10,8 @@ import EngagementModels from "../component/engagementModels/engagementModels";
 import TopLevel from "../component/topLevel/topLevel";
 import AndroidApp from "../component/androidApp/androidApp";
 import EveryIndustry from "../component/everyIndustry/everyIndustry";
+import FrequentlyAccordion from "../component/frequentlyAccordion/frequentlyAccordion";
+import Footer from "../component/footer/footer";
 
 function Home() {
   return (
@@ -21,10 +23,12 @@ function Home() {
       <VirtualValley />
       <EveryBusiness />
       <Designing />
-      <EngagementModels/>
-      <TopLevel/>
-      <AndroidApp/>
-      <EveryIndustry/>
+      <EngagementModels />
+      <TopLevel />
+      <AndroidApp />
+      <EveryIndustry />
+      <FrequentlyAccordion />
+      <Footer />
     </div>
   );
 }
